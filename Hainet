@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>2</title>
-    <link rel="stylesheet" href="c.css"> 
+    <style> .header { background: #7FFFD4; height: 100px; width: 100%; } #headdiv { text-align: center; font-size: 25px; } .footer { background: #7FFFD4 } </style> 
 </head>
 <body>
 <header class="header">
