@@ -1,1 +1,33 @@
-qwe
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>2</title>
+    <style>
+            .header {
+                background: #7FFFD4;
+                height: 100px;
+                width: 100%;
+            }
+            #headdiv {
+                text-align: center;
+                font-size: 25px;
+            }
+            .footer {
+                background: #7FFFD4
+            }
+    </style>
+</head>
+<body>
+<header class="header">
+    <img id="" src="https://webformyself.com/wp-content/uploads/2016/137/2.png" alt="logo">
+    <div id="headdiv">
+        Задание 2
+    </div>
+</header>
+
+<p>HELLO</p>
+
+<footer class="footer">Подвал</footer>
+</body>
+</html>
